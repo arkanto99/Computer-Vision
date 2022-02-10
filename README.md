@@ -5,7 +5,7 @@ Prácticas de la asignatura Visión por Computador de la Universidad de Granada 
 ## Contenido
 
 ### [Práctica 0](https://github.com/arkanto99/VisionPorComputador/tree/main/P0)
-Familiciación con la lectura de imágenes con OpenCV, Numpy y MatPlotLib.
+Familiarización con la lectura de imágenes con OpenCV, Numpy y MatPlotLib.
 
 ### [Práctica 1](https://github.com/arkanto99/VisionPorComputador/tree/main/P1)
 Implementación manual de diferentes herramientas utilizadas en la Visión por Computador:
