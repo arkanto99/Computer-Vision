@@ -1,43 +1,41 @@
-# Visión por Computador
+# Computer Vision Project
 
-Prácticas de la asignatura Visión por Computador de la Universidad de Granada (UGR). Curso 2021/2022
+Projects of the subject Computer Vision at the University of Granada (UGR). Course 2021/2022
 
-## Contenido
+## Contents
 
-### [Práctica 0](https://github.com/arkanto99/VisionPorComputador/tree/main/P0)
-Familiarización con la lectura de imágenes con OpenCV, Numpy y MatPlotLib.
+### [Assignment 0](https://github.com/arkanto99/VisionPorComputador/tree/main/P0)
+Image reading with OpenCV, Numpy and MatPlotLib.
 
-### [Práctica 1](https://github.com/arkanto99/VisionPorComputador/tree/main/P1)
-Implementación manual de diferentes herramientas utilizadas en la Visión por Computador:
-+   Aproximación de máscaras Gaussianas y de 1ª y 2ª derivada.
-+   Convolución utilizando máscaras separables.
-+   Construcción de las pirámides Gaussianas y Laplacianas.
+### [Assignment 1](https://github.com/arkanto99/VisionPorComputador/tree/main/P1)
+Manual implementation of different tools used in Computer Vision:
++ Approximation of Gaussian mask and its 1st and 2nd derivative masks.
++ Convolution using separable masks.
++ Construction of Gaussian and Laplacian pyramids.
 
-Además, se añaden dos aplicaciones de lo anterior:
-+   Reconstrucción de una imagen a partir de su pirámide Laplaciana.
-+   Creación de imágenes híbridas (en escala de grises y a color)
+In addition, two applications of the above are added:
++ Reconstruction of an image from its Laplacian pyramid.
++ Creation of hybrid images (greyscale and colour).
 
-### [Práctica 2](https://github.com/arkanto99/VisionPorComputador/tree/main/P2)
-+   Implementación del algortimo SIFT de detección de puntos característicos
-+   Construcción de panoramas utilizando Homografías
+### [Assignment 2](https://github.com/arkanto99/VisionPorComputador/tree/main/P2)
++ Implementation of the SIFT algorithm for characteristic points detection
++ Construction of panoramas using Homographs
 
-### [Práctica 3](https://github.com/arkanto99/VisionPorComputador/tree/main/P3)
-Utilización de redes neuronales convolucionales.
+### [Assignment 3](https://github.com/arkanto99/VisionPorComputador/tree/main/P3)
+Use of convolutional neural networks.
 
-### [Proyecto](https://github.com/arkanto99/VisionPorComputador/tree/main/Proyecto)
-Utilización del modelo ResNet50 para realizar Transfer Learning
-(utilizando una red de este tipo previamente entrenada en ImageNet) a fin de poder ayudar en el diagnóstico
-de neumonías pulmonares en imagenes de rayos X. También se prueban  otros modelos
-diferentes para discernir cuál proporciona mejores resultados en este problema.
+### [Final Proyect](https://github.com/arkanto99/VisionPorComputador/tree/main/Proyecto)
+Use of the ResNet50 model to perform Transfer Learning
+(using such a network previously trained on ImageNet) in order to assist in the diagnosis of pulmonary pneumonias in X-ray images. Other different models are also tested to discern which one provides the best results for this problem.
 
 
 
 ## Tech Stack
 
-**Lenguajes:** Python 3.7
+**Languages:** Python 3.7
 
-**Librerías:** OpenCV, Numpy, Keras, Matplotlib
+**Libraries:** OpenCV, Numpy, Keras, Matplotlib
 
-**Otros**: Google Colab
+**Others**: Google Colab
 
 
